@@ -1,6 +1,6 @@
 # **Vue js:**
 
-Lightweight frontend framework
+Vue is a lightweight frontend library. I know, I know you all think it's a waste when compared to React or Angular. But give it a try and you'll be surprised how easy it is to learn and write Vue code.
 
 ### **Why use vue ?**
 

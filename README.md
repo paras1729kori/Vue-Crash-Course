@@ -4,8 +4,7 @@ Vue is a lightweight frontend library. I know, I know you all think it's a waste
 
 ### **Why use vue ?**
 
-- It is much easier when compared to react js
-  Cause react has much complex terminologies graph than vue
+- It is much easier when compared to react js, cause react has much complex terminologies graph than vue
 
 - Has easiest learning curve
   You can almost say Vue js is a structured javascript

@@ -4,6 +4,9 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    // start: solution for TypeScript Intellisense Template Error
+    "jsx":"preserve",
+    // end
     "paths": {
       "@/*": [
         "src/*"

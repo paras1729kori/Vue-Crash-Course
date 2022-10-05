@@ -13,7 +13,7 @@ export default {
   },
   methods: {
     onClick() {
-      comsole.log("click");
+      this.$emit("btn-click");
     },
   },
 };
